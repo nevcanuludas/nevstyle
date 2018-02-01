@@ -1,0 +1,6 @@
+/* You forgot the 'alt' attribute */
+img[alt=""],
+img:not([alt]) {
+  outline: 5px dashed #C00;
+  outline-offset: -5px;
+}
