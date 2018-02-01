@@ -1,4 +1,4 @@
-# 'nevstyle.css'
+# `nevstyle.css`
 A useful style sheet for your projects
 
 ## What can you do with nevstyle.css
