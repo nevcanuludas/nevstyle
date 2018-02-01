@@ -6,3 +6,9 @@ A useful style sheet for your projects
 
 ## How to use
 Just download 'nevstyle.css' file and add it head of your porject.
+
+----
+
+Nevcan Uludaş http://nevcan.com
+
+License: none (public domain)
