@@ -4,3 +4,9 @@ img:not([alt]) {
   outline: 5px dashed #C00;
   outline-offset: -5px;
 }
+
+/* Abbreviations */
+abbr {
+  text-decoration: none;
+  cursor: help;
+}
